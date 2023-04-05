@@ -1,15 +1,15 @@
 {
-  "BRANDING_NAME": "The Traveller",
-  "BRANDING_URL": "https://discord.gg/thetraveller",
+  "BRANDING_NAME": "The Killing Days Dayz",
+  "BRANDING_URL": "https://discord.gg/k5RpGhUj",
   "BRANDING_LOGO_FILE_NAME": "logo.png",
   "BRANDING_THEME_COLOR": "#00FFFF",
 
-  "PAGE_TITLE": "The Traveller",
+  "PAGE_TITLE": "The Killing Days",
   "PAGE_SUB_TITLE": "DayZ",
-  "PAGE_DESCRIPTION": "DayZ Leaderboard for The Traveller community. Browse the top players, and display your own detailed player statistics.",
+  "PAGE_DESCRIPTION": "DayZ Leaderboard for The Killing Days community. Browse the top players, and display your own detailed player statistics.",
 
   "COMMUNITY_BUTTON_USE_DISCORD_LOGO": true,
-  "COMMUNITY_BUTTON_INVITE_LINK": "https://discord.gg/thetraveller",
+  "COMMUNITY_BUTTON_INVITE_LINK": "https://discord.gg/k5RpGhUj",
   "COMMUNITY_BUTTON_TEXT": "Join our Discord!",
 
   "USE_BACKGROUND_IMAGE": true,
@@ -33,16 +33,16 @@
     "suicides"
   ],
 
-  "USE_MULTIPLE_SERVER_CONFIGURATION": true,
+  "USE_MULTIPLE_SERVER_CONFIGURATION": false,
   "AUTOMATICALLY_RESOLVE_SERVER_GRANTS": false,
 
   "CFTOOLS_DAYZ_SERVERS": [
     {
-      "NAME": "Cherno - The Traveller (Hive)",
+      "NAME": "The Killing Days Dayz",
       "SERVER_API_ID": "16c43cf5-ed17-43bf-b28c-9d793d34bc29;"
     },
     {
-      "NAME": "Deerisle - The Traveller (Hive)",
+      "NAME": "",
       "SERVER_API_ID": "Your secret server API ID O;"
     }
   ],
